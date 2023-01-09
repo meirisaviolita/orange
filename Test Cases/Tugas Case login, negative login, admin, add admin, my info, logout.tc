@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tugas Case login, negative login, admin, add admin, my info, logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2928120-a002-4868-ad8c-4bbd08c9746c</testCaseGuid>
+</TestCaseEntity>

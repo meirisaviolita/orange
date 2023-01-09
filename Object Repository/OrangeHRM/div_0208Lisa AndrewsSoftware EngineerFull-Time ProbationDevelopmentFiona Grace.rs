@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0208Lisa AndrewsSoftware EngineerFull-Time ProbationDevelopmentFiona Grace</name>
+   <tag></tag>
+   <elementGuidId>1dff7f57-ea99-489a-9359-e6e59e1b3c95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-table-row.oxd-table-row--with-border.oxd-table-row--clickable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>866fd11e-faa4-4861-94c6-d3265f4fa31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-table-row oxd-table-row--with-border oxd-table-row--clickable</value>
+      <webElementGuid>de6da04f-7857-4a8e-88eb-f7bbf86f8221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>92c30273-9dda-4eed-8703-67509400d93d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0208Lisa AndrewsSoftware EngineerFull-Time ProbationDevelopmentFiona Grace</value>
+      <webElementGuid>788debb3-49ce-4a08-bddc-f1280da837e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table orangehrm-employee-list&quot;]/div[@class=&quot;oxd-table-body&quot;]/div[@class=&quot;oxd-table-card&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border oxd-table-row--clickable&quot;]</value>
+      <webElementGuid>25f2811e-3049-443e-8c3e-8bfba7407373</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>fd58ecc8-1df8-4f07-92aa-044dbd7f3c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>2c65dea6-c2f5-48fd-acb0-7b684fb90657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '0208Lisa AndrewsSoftware EngineerFull-Time ProbationDevelopmentFiona Grace' or . = '0208Lisa AndrewsSoftware EngineerFull-Time ProbationDevelopmentFiona Grace')]</value>
+      <webElementGuid>c2e73ccf-b29b-42d9-8c82-b16a3dedeb7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1545111808_contoh-pdf.pdf14.09 kBapplicationpdf2022-12-27Admin</name>
+   <tag></tag>
+   <elementGuidId>89a55c87-bd49-4abb-ab29-008a24961395</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div[3]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-table-card > div.oxd-table-row.oxd-table-row--with-border</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e84c6de-c30e-432f-a298-d9144474b456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-table-row oxd-table-row--with-border</value>
+      <webElementGuid>1c77b166-3038-46a3-bb34-e6143c05153f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>3ecf46ef-8d60-41e2-b0f5-9f6a176ca668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1545111808_contoh-pdf.pdf14.09 kBapplication/pdf2022-12-27Admin</value>
+      <webElementGuid>e5dcea7f-1d54-42b2-9204-62c3e838eef2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-attachment&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body&quot;]/div[@class=&quot;oxd-table-card&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]</value>
+      <webElementGuid>df1f0c23-d024-4507-861d-bcfd50a8aebf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>5aad83d9-cb1b-4da9-a880-11c8e4a2e936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>f55629c5-2198-47e6-bf49-bb53fb9c5c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1545111808_contoh-pdf.pdf14.09 kBapplication/pdf2022-12-27Admin' or . = '1545111808_contoh-pdf.pdf14.09 kBapplication/pdf2022-12-27Admin')]</value>
+      <webElementGuid>fa413028-d018-483a-ab7b-597f02939ec0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>melihat keseluruhan Attachment</name>
+   <tag></tag>
+   <elementGuidId>22ca5047-38b9-4aff-b8c7-1a687296e6ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-attachment > div.orangehrm-card-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8efd89a9-d762-4291-af38-c29d78673e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-card-container</value>
+      <webElementGuid>33597123-431c-43ee-b414-5f6ab356a2ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit AttachmentCurrent File1545111808_contoh-pdf.pdfReplace WithBrowseNo file selectedAccepts up to 1MBComment * Required Cancel  Save </value>
+      <webElementGuid>07b7721f-0a66-4338-ab3d-ac9e7a3fe4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-attachment&quot;]/div[@class=&quot;orangehrm-card-container&quot;]</value>
+      <webElementGuid>96d8461a-1bb2-4812-a080-e1a05b58f107</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>1f080c49-4624-4119-b065-522bca9d157e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Email'])[1]/following::div[4]</value>
+      <webElementGuid>16f008fa-1284-434a-be4f-ebe2703a6bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>41bb7d66-dcad-486f-9bea-0243c98646cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Edit AttachmentCurrent File1545111808_contoh-pdf.pdfReplace WithBrowseNo file selectedAccepts up to 1MBComment * Required Cancel  Save ' or . = 'Edit AttachmentCurrent File1545111808_contoh-pdf.pdfReplace WithBrowseNo file selectedAccepts up to 1MBComment * Required Cancel  Save ')]</value>
+      <webElementGuid>bbb76162-7159-4ef8-a915-8b607b6fd47d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
